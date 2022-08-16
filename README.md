@@ -1,8 +1,8 @@
 ### Hello there 🤖 
-## Eu sou o gabrielfcisco!
+## I'm Gabriel!
 
 - 🌵 I’m currently studying Computer Engineering
-- ⚡ Fun fact: One Piece 🏴‍☠️ & LOTR 💍 lover
+- ⚡ Fun fact: One Piece 🏴‍☠️ lover
 
 
 <div align="center">
