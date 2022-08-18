@@ -1,5 +1,6 @@
-### Hello there 🤖 
-## I'm Gabriel!
+## Hello there 🤖 
+
+# I'm Gabriel!
 
 - 🌵 I’m currently studying Computer Engineering
 - ⚡ Fun fact: One Piece 🏴‍☠️ lover
